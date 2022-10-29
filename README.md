@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Odyhibit
+- 👋 Hi, I’m Josh Bloom
 - 👀 Working on my B.C.S.
-- 🌱 I’m currently learning Python.
+
+I expect to graduate by the end of this year(2022). Looking forward to spending some time learning more about the art of software creation.
 
 
 <!---

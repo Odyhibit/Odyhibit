@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Josh Bloom
 - 👀 Working on my B.C.S.
 
-I expect to graduate by the end of this year(2022). Looking forward to spending some time learning more about the art of software creation.
+I expect to graduate by March of this year(2023). Looking forward to spending some time learning more about the art of software creation.
 
 
 <!---

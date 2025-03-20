@@ -7,7 +7,7 @@
   There is a set of scripts that will continuously download new NPM packages and run YARA rules to try and find malicious packages. 
 
   
-Check out some of my tools that are available online. https://odyhibit.github.io/Odyhibit/
+  - Check out some of my tools that are available online. https://odyhibit.github.io/Odyhibit/
 
 
 <!---

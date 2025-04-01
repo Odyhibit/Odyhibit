@@ -221,14 +221,14 @@
         // Tool data
         const tools = [
             {
-                image: '🔢',
+                image: 'images/matrix_stego_icon.png',
                 title: 'Matrix Steganography',
                 description: 'Hide secret messages within mathematical matrices using this innovative steganography tool. You can hide a secret message, recover a secret message, or compare the original image to the steganography image to see how many of the least significant bits were changed to hide your message.',
                 link: 'https://odyhibit.github.io/matrix_steganography/',
                 categories: ['Steganography', 'Image']
             },
             {
-                image: '😱',
+                image: 'images/scream_cipher_icon.png',
                 title: 'Scream Cipher',
                 description: 'Everything is screaming all the time.',
                 link: 'https://odyhibit.github.io/Scream_Cipher/',
@@ -367,8 +367,14 @@
 
             const toolImage = document.createElement('div');
             toolImage.classList.add('tool-image');
-            toolImage.textContent = tool.image;
-
+            if(tool.image.startsWith('images')) {
+                const imgElement = document.createElement('img');
+                imgElement.src = tool.image;
+                imgElement.alt = tool.title + " icon";
+                toolImage.appendChild(imgElement);
+            } else {
+                toolImage.textContent = tool.image;
+            }
             const toolTitleContainer = document.createElement('div');
             const toolTitle = document.createElement('h3');
             toolTitle.classList.add('tool-title');

@@ -75,7 +75,7 @@ const tools = [
         description: 'Experience vintage hacking tools and techniques from the 1990s cybersecurity era. This was made for a hackathon with a 90\'s theme. It is a Leetspeak tool, based on the movie Hackers.',
         link: 'https://odyhibit.github.io/90sHackers/',
         categories: ['Humor', '90s']
-    }
+    },
         {
         image: 'images/bitmap_font_icon.png',
         title: 'Bitmap Font',

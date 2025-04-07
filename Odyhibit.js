@@ -76,12 +76,19 @@ const tools = [
         link: 'https://odyhibit.github.io/90sHackers/',
         categories: ['Humor', '90s']
     },
-        {
+    {
         image: 'images/bitmap_font_icon.png',
         title: 'Bitmap Font',
         description: 'Take a message, and encode it into a 5x7 bitmap font. You can also use this tool to visualize messages encoded in bitmap fonts. It does expect the maximum height of the custom font to be 8 pixels.',
         link: 'https://odyhibit.github.io/hex_bitmap_font/',
         categories: ['Encoding', 'Image']
+    },
+    {
+        image: 'images/binary_spiral_icon.png',
+        title: 'Binary Spiral',
+        description: 'Take a message, convert it binary. Then lay it down in a spiral pattern on a square matrix. ',
+        link: 'https://odyhibit.github.io/spiral_binary_decoder/',
+        categories: ['Encoding', 'Cipher']
     }
 ];
 

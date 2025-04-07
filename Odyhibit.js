@@ -1,5 +1,12 @@
 const tools = [
     {
+        image: 'images/any_bits_icon.png',
+        title: 'Any-Bits-You-Want Steganography',
+        description: 'Pick the bits you want to hide your secret message in. This tool will take a file and then hide it in the bits you pick. Do you want stuff a bunch of data in a small image? Its not gonna be subtle, but it will probably work. You can use all the bits for storage if you want. You will need to know what bits were used when it\'s time to decode.',
+        link: 'https://odyhibit.github.io/Any-bits-Steganography/',
+        categories: ['Steganography', 'Image']
+    },
+    {
         image: 'images/matrix_stego_icon.png',
         title: 'Matrix Steganography',
         description: 'Hide secret messages within mathematical matrices using this innovative steganography tool. You can hide a secret message, recover a secret message, or compare the original image to the steganography image to see how many of the least significant bits were changed to hide your message.',
@@ -90,6 +97,7 @@ const tools = [
         link: 'https://odyhibit.github.io/spiral_binary_decoder/',
         categories: ['Encoding', 'Cipher']
     }
+
 ];
 
 // Function to create category filters

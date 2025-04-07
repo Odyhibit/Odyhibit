@@ -79,7 +79,7 @@ const tools = [
         {
         image: 'images/bitmap_font_icon.png',
         title: 'Bitmap Font',
-        description: 'Experience vintage hacking tools and techniques from the 1990s cybersecurity era. This was made for a hackathon with a 90\'s theme. It is a Leetspeak tool, based on the movie Hackers.',
+        description: 'Take a message, and encode it into a 5x7 bitmap font. You can also use this tool to visualize messages encoded in bitmap fonts. It does expect the maximum height of the custom font to be 8 pixels.',
         link: 'https://odyhibit.github.io/hex_bitmap_font/',
         categories: ['Encoding', 'Image']
     }

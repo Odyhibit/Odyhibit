@@ -96,6 +96,13 @@ const tools = [
         description: 'Take a message, convert it binary. Then lay it down in a spiral pattern on a square matrix. ',
         link: 'https://odyhibit.github.io/spiral_binary_decoder/',
         categories: ['Encoding', 'Cipher']
+    },
+        {
+        image: 'images/binary_visualizer.png',
+        title: 'Binary Visualizer',
+        description: 'Visualize binary data in a 2D grid format. This tool allows you to see the binary representation of your data in a more intuitive way.',
+        link: 'https://odyhibit.github.io/binary_visualizer/',
+        categories: ['Encoding', 'Image']
     }
 
 ];

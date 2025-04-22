@@ -97,11 +97,18 @@ const tools = [
         link: 'https://odyhibit.github.io/spiral_binary_decoder/',
         categories: ['Encoding', 'Cipher']
     },
-        {
+    {
         image: 'images/binary_visualizer.png',
         title: 'Binary Visualizer',
         description: 'Visualize binary data in a 2D grid format. This tool allows you to see the binary representation of your data in a more intuitive way.',
         link: 'https://odyhibit.github.io/binary_visualizer/',
+        categories: ['Encoding', 'Image']
+    },
+    {
+        image: 'images/binary_image_extractor_icon.png',
+        title: 'Binary Image Extractor',
+        description: 'If you have an image that contains binary encoded as squares, this tool can extract the binary and try to decode it into ascii for you.',
+        link: 'https://odyhibit.github.io/binary_image_extractor/',
         categories: ['Encoding', 'Image']
     }
 

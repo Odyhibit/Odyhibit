@@ -110,7 +110,15 @@ const tools = [
         description: 'If you have an image that contains binary encoded as squares, this tool can extract the binary and try to decode it into ascii for you.',
         link: 'https://odyhibit.github.io/binary_image_extractor/',
         categories: ['Encoding', 'Image']
+    },
+    {
+        image: 'images/base64_paint_icon.png',
+        title: 'Base64 Paint',
+        description: "It's a paint program that encodes the image as base64. You probably don't need to do this, but if you do, then this tool is just faster that paper and pencil. You can draw a picture, and then get the base64 encoded version of it.",
+        link: 'https://odyhibit.github.io/base64_paint/',
+        categories: ['Encoding', 'Image']
     }
+
 
 ];
 

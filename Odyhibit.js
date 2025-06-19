@@ -122,7 +122,7 @@ const tools = [
         image: 'images/lfsr.png',
         title: 'LFSR Decoder',
         description: "If you have some encoded ciphertext, in hex or base64 that might be encoded with a LFSR stream, and a bit of the plaintext then this tool will attempt to use the berlekamp massey algorithm to decode it.",
-        link: 'https://odyhibit.github.io/LFSR/,
+        link: 'https://odyhibit.github.io/LFSR/',
         categories: ['Encoding']
     }
 

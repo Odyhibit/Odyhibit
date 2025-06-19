@@ -51,7 +51,7 @@ const tools = [
     {
         image: 'images/fibonacci_icon.png',
         title: 'Fibonacci Cipher Decoder',
-        description: 'Use Fibonacci coding to hide/recover messages.',
+        description: 'Use Fibonacci coding to hide/recover messages. The type of encoding can be recognized by the lack of more than 3 adjacent 1\'s in the binary. For example 1111 will never occur.',
         link: 'https://odyhibit.github.io/fibonacci_cipher_decoder/',
         categories: ['Cipher']
     },

@@ -124,6 +124,13 @@ const tools = [
         description: "If you have some encoded ciphertext, in hex or base64 that might be encoded with a LFSR stream, and a bit of the plaintext then this tool will attempt to use the berlekamp massey algorithm to decode it.",
         link: 'https://odyhibit.github.io/LFSR/',
         categories: ['Encoding']
+    },
+        {
+        image: 'images/seeded_rng_icon.png',
+        title: 'Random Number from Seed',
+        description: "This is for those times when you need to match random numbers from a known seed. Probably from a Reverse Engineering challenge. If you know the seed, this can probably get you the values.",
+        link: 'https://odyhibit.github.io/random_from_seed/',
+        categories: ['Encoding']
     }
 
 

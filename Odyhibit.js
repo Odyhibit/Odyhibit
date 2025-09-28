@@ -125,11 +125,18 @@ const tools = [
         link: 'https://odyhibit.github.io/LFSR/',
         categories: ['Encoding']
     },
-        {
+    {
         image: 'images/seeded_rng_icon.png',
         title: 'Random Number from Seed',
         description: "This is for those times when you need to match random numbers from a known seed. Probably from a Reverse Engineering challenge. If you know the seed, this can probably get you the values.",
         link: 'https://odyhibit.github.io/random_from_seed/',
+        categories: ['Encoding']
+    },
+    {
+        image: 'images/ascii_chart_icon.png',
+        title: 'ASCII Chart',
+        description: "A quick reference ASCII chart.",
+        link: 'https://odyhibit.github.io/Ascii_chart/',
         categories: ['Encoding']
     }
 

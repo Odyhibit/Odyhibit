@@ -138,6 +138,13 @@ const tools = [
         description: "A quick reference ASCII chart.",
         link: 'https://odyhibit.github.io/Ascii_chart/',
         categories: ['Encoding']
+    },
+        {
+        image: 'images/vigenere_icon.png',
+        title: 'Vigenere Lab',
+        description: "A few tools to help you manually solve a Vigenere cipher.",
+        link: 'https://odyhibit.github.io/vigenere-lab/',
+        categories: ['Cipher']
     }
 
 

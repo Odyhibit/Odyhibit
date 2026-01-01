@@ -18,14 +18,14 @@ const tools = [
         title: 'Scream Cipher',
         description: 'Everything is screaming all the time.',
         link: 'https://odyhibit.github.io/Scream_Cipher/',
-        categories: ['Cipher', 'Humor']
+        categories: ['Encoding', 'Humor']
     },
     {
         image: 'images/monoalphabetic_icon.png',
         title: 'Monoalphabetic Substitution Cipher',
         description: 'Decrypt messages using classic monoalphabetic substitution ciphers. This tool will help your manual decoding efforts.',
         link: 'https://odyhibit.github.io/monoalphabetic_cipher_tool/',
-        categories: ['Cipher', 'Monoalphabetic']
+        categories: ['Encoding']
     },
     {
         image: 'images/binary_morse_icon.png',
@@ -53,14 +53,14 @@ const tools = [
         title: 'Fibonacci Cipher Decoder',
         description: 'Use Fibonacci coding to hide/recover messages. The type of encoding can be recognized by the lack of more than 3 adjacent 1\'s in the binary. For example 1111 will never occur.',
         link: 'https://odyhibit.github.io/fibonacci_cipher_decoder/',
-        categories: ['Cipher']
+        categories: ['Encoding']
     },
     {
         image: 'images/aperiodic_icon.png',
         title: 'Aperiodic Cipher Encoder/Decoder',
         description: 'Three types of Aperiodic ciphers. Word Length Aperiodic, Numerically Keyed Aperiodic, and Interruptor Letter Aperiodic.',
         link: 'https://odyhibit.github.io/aperiodic_cipher/',
-        categories: ['Cipher', 'Polyalphabetic']
+        categories: ['Encoding']
     },
     {
         image: 'images/base24_bacon_icon.png',
@@ -81,7 +81,7 @@ const tools = [
         title: '90s Hackers',
         description: 'Experience vintage hacking tools and techniques from the 1990s cybersecurity era. This was made for a hackathon with a 90\'s theme. It is a Leetspeak tool, based on the movie Hackers.',
         link: 'https://odyhibit.github.io/90sHackers/',
-        categories: ['Humor', 'Encoding']
+        categories: ['Encoding', 'Humor']]
     },
     {
         image: 'images/bitmap_font_icon.png',
@@ -95,7 +95,7 @@ const tools = [
         title: 'Binary Spiral',
         description: 'Take a message, convert it binary. Then lay it down in a spiral pattern on a square matrix. ',
         link: 'https://odyhibit.github.io/spiral_binary_decoder/',
-        categories: ['Encoding', 'Cipher']
+        categories: ['Encoding']
     },
     {
         image: 'images/binary_visualizer.png',
@@ -144,7 +144,7 @@ const tools = [
         title: 'Vigenere Lab',
         description: "A few tools to help you manually solve a Vigenere cipher.",
         link: 'https://odyhibit.github.io/vigenere-lab/',
-        categories: ['Cipher']
+        categories: ['Encoding']
     }
 
 
